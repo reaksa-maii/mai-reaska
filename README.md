@@ -1,4 +1,4 @@
-[![MasterHead](391629079_343195738234217_5501188657730938117_n.jpg)](https://github.com/SoyVitou)
+
 <h1 align="center">
   Hi 👋, I'm Soy Vitou Pro
   <hr />
