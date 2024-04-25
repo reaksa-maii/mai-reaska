@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">🚀 Passionate AI & ML Engineer | Transforming Ideas into Intelligent Solutions</h3>
+<h3 align="center">I am a student of IT Engineerig </h3>
 
 <hr />
 
