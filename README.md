@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi 👋, I'm Soy Vitou Pro
+  Hi 👋, I'm MAI Reaksa
   <hr />
   <table align="center">
     <tr border: none;>
@@ -27,9 +27,9 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 💬 Ask me about **Python, Unity**
+- 💬 Ask me about **Python, Javascript, Java**
 
-- 📫 How to reach me **Soy vitou Pro**
+- 📫 How to reach me **Mai Reaksa**
 
 - ⚡ Fun fact **I think I am funny**
 
