@@ -4,8 +4,8 @@
   <hr />
   <table align="center">
     <tr border: none;>
-      <td><img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=be4d25&style=for-the-badge" alt="soyvitou2019" /></td>
-      <td><img src="https://img.shields.io/github/followers/SoyVitou2019?label=Followers&style=for-the-badge" alt="soyvitou2019" /></td>
+      <td><img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=be4d25&style=for-the-badge" alt="maireaksa" /></td>
+      <td><img src="https://img.shields.io/github/followers/SoyVitou2019?label=Followers&style=for-the-badge" alt="maireaksa" /></td>
     </tr>
 </table>
 </h1>
