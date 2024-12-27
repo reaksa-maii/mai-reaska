@@ -46,7 +46,9 @@
 <h3 align="left">Work Experenice</h3>
 <p align="left">
 </p>
-<p>Backend Developer at Sabay</p>
+<div>
+  <p> <b>23-12-2024:</b> Backend Developer at <b>Sabay.com</b> </p>
+</div>
 
 <br />
 
